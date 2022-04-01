@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ohneHNRIbOVfvb94IBUEQUI6SxiTznDngDFuKeh19mEdDTKmij4knjctN5sFwQvnAbch3qPbk8Fa9IyOdBIeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2090897\\OneDrive - Cognizant\\Desktop\\hands on\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2090897\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
